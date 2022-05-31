@@ -18,7 +18,7 @@
 	角等信息。DS0来指示程序正在运行。另外,本例程也可以通过USMART调用MPU_Read_Byte/MPU_Write_Byte
 	等函数,来实现对MPU6050寄存器的读写操作(仅在UPLOAD OFF状态下).
 	 
-
+注意：KEY 和 lcd在本项目中没有使用
 
 
 
